@@ -57,7 +57,7 @@
 
  # Application Code
 
-   To view application code, [click this link to be taken to the Git repository.](https://github.com/BirdWatcherQuack/BirdWatcher)
+   To view application code, [click this link to be taken to the Git repository.](https://github.com/WellAndGood/BirdWatcher-1.git) Note: This is a forked repo from https://github.com/BirdWatcherQuack/BirdWatcher
 
 
  # Screenshots
